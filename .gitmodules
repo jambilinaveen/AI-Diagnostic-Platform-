@@ -1,0 +1,6 @@
+[submodule "pregancyrisk..-"]
+	path = pregancyrisk..-
+	url = https://github.com/jambilinaveen/pregancyrisk..-
+[submodule "README"]
+	path = README
+	url = https://github.com/jambilinaveen/README
